@@ -395,6 +395,12 @@ fieldset[disabled] .btn-theme {
   	[Work]
 ------------------------------------------------------------------*/
 /* Overlay */
+.carousel-inner,.carousel-slide,.item,.container,.fill {
+  height:100%;
+  width:100%;
+  background-position:center;
+}
+
 .work {
   position: relative;
   display: block;
