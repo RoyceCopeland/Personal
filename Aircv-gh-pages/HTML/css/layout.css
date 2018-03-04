@@ -395,11 +395,11 @@ fieldset[disabled] .btn-theme {
   	[Work]
 ------------------------------------------------------------------*/
 /* Overlay */
-.carousel-inner,.carousel-slide,.item,.container,.fill {
+/* .carousel-inner,.carousel,.item,.carousel-container,.fill {
   height:100%;
   width:100%;
-  background-position:center;
-}
+  background-position:center center;
+} */
 
 .work {
   position: relative;
@@ -1095,7 +1095,7 @@ fieldset[disabled] .btn-theme {
   	[Content]
 ------------------------------------------------------------------*/
 .content {
-  padding-top: 40px;
+  /* padding-top: 40px; */
   padding-bottom: 40px;
 }
 
