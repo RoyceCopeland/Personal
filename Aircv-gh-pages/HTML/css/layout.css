@@ -348,7 +348,7 @@ fieldset[disabled] .btn-theme {
 }
 
 /*------------------------------------------------------------------
-  	[Service]
+  	[Experience]
 ------------------------------------------------------------------*/
 .service {
   background: #fff;
@@ -986,8 +986,16 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
   	[Background Colors]
 ------------------------------------------------------------------*/
-.bg-color-base {
-  background: #17bed2 !important;
+.bg-color-purple {
+  background: #bbadf8 !important;
+}
+
+.bg-color-pink {
+  background: #f8bdee !important;
+}
+
+.bg-color-yellow {
+  background: #faf8b5 !important;
 }
 
 .bg-color-white {
