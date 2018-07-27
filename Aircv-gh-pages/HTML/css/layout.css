@@ -401,6 +401,8 @@ fieldset[disabled] .btn-theme {
   background-position:center center;
 } */
 
+
+
 .work {
   position: relative;
   display: block;
@@ -1095,8 +1097,8 @@ fieldset[disabled] .btn-theme {
   	[Content]
 ------------------------------------------------------------------*/
 .content {
-  /* padding-top: 40px; */
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .content-sm {
