@@ -1,2 +1,0 @@
-# Personal
-Resume/Portfolio site
